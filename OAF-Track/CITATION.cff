@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "OAF-Track: Observation-Centric, Appearance-Fused Multi-Object Tracking with Intra-Game Hard-Negative Re-Identification for Sports and Dance Scenes"
+authors:
+  - family-names: "<Surname>"
+    given-names: "<Given name>"
+license: MIT
+repository-code: "https://github.com/shanthinisampath2-creator/OAF-Track"
+date-released: 2026-10-13

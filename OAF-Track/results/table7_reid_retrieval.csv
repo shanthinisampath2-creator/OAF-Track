@@ -1,0 +1,5 @@
+Dataset,Features,mAP (%),Rank-1 (%)
+SportsMOT val,ImageNet ResNet-50,26.2,36.3
+SportsMOT val,Intra-game Re-ID (ours),57.0,73.1
+DanceTrack val,ImageNet ResNet-50,20.7,28.7
+DanceTrack val,Intra-game Re-ID (ours),34.2,51.1

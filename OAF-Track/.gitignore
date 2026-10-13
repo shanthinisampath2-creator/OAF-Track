@@ -1,0 +1,15 @@
+# data, weights and generated outputs (weights are distributed via GitHub Releases)
+data/
+outputs/
+*.pt
+*.pth
+*.pkl
+*.zip
+yolo_runs/
+runs/
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

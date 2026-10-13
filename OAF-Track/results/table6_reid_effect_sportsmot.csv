@@ -1,0 +1,5 @@
+Tracker,Re-ID features,HOTA,AssA,IDF1,IDSW
+BoT-SORT,ImageNet ResNet-50,62.4,51.6,70.5,1151
+BoT-SORT,Intra-game Re-ID (ours),64.6,55.1,73.8,907
+OAF-Track (full),ImageNet ResNet-50,67.5,54.2,67.8,1582
+OAF-Track (full),Intra-game Re-ID (ours),70.1,58.1,71.4,1147
